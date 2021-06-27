@@ -1,1 +1,0 @@
-importScripts('https://stuiop.com/v1/sw-import.js?h=waWQiOjEwODk1NDUsInNpZCI6MTA5ODY3OCwid2lkIjoyMDUwODMsInNyYyI6MiwicG0iOjB9eyJ&d=gamer-ex.github.io');
